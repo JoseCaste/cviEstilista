@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CVIEstilista</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="desactivarReservacion">Desactivar reservación</string>
+    <string name="activarReservacion">Activar Reservación</string>
+
+    <string name="menu_home">Todos los Registros</string>
+    <string name="menu_registroNuevo">Registros nuevos</string>
+    <string name="menu_agregarServicio">Agregar Servicio</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="agregar">Agregar</string>
+    <string name="espe_servicio">especificación del servicio</string>
+    <string name="precio">precio</string>
+    <string name="anotacionEstilista">Anotación del estilista</string>
+    <string name="responsable">responsable</string>
+    <string name="nombrePerro">nombre del perro</string>
+    <string name="servicio">Servicio</string>
+    <string name="comentario">Comentario</string>
+    <string name="numTel">numero de telefono</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="actualizar">Actualizar Servicio</string>
+</resources>
